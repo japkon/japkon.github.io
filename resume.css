@@ -7,17 +7,30 @@ body {margin-left: 75px;
 	margin-right: 75px;
 	}
 
-p1 {text-decoration: underline;
+h2 {text-decoration: underline;
 	font-weight: bold;
 	font-size: 16px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	display: inline;
 	}
 
-p2 {font-weight: bold;
+h3 {font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	display: inline;
 	}
 
-p3 {text-align: right;
+h4 {text-align: right;
 	font-weight: bold;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	display: inline;
 	}
 
 ul {margin-top: 0px;
+	}
+
+p{display: inline;
 	}
